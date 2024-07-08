@@ -1,0 +1,6 @@
+rootProject.name = 'ecommerce'
+
+include 'user-api'
+include 'zerobase-domain'
+include 'order-api'
+

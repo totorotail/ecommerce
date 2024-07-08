@@ -1,0 +1,3 @@
+rootProject.name = 'zerobase-domain'
+
+include 'zerobase-domain'

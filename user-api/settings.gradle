@@ -1,0 +1,4 @@
+rootProject.name = 'user-api'
+
+include 'user-api'
+include 'zerobase-domain'
